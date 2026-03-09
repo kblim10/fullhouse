@@ -18,6 +18,10 @@ fullhouse/
 
 Diagram relasi database ada di file [ERD.md](ERD.md).
 
+## Screenshot Fitur
+
+Rangkuman dan screenshot per fitur ada di file [SCREENSHOTS.md](SCREENSHOTS.md).
+
 ## Prasyarat
 
 Yang perlu diinstall dulu:
